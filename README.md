@@ -1,6 +1,6 @@
 # weather-forecast-recponsive-website
 
-#Deployed Website
+# Deployed Website
 https://jkd03.github.io/weather-forecast-recponsive-website/
 
 # Homepage
